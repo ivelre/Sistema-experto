@@ -1,0 +1,18 @@
+1
+File folder = new File("x:\\devtroce\\java");
+1
+File folder = new File("/media/devtroce/java");
+Arriba se ve la instancia que crearía la carpeta, el primer ejemplo es para un sistema operativo Windows y el segundo para los que están basado en Unix. Una vez instanciado el objeto podemos invocar sus métodos para crear los directorios, asi:
+
+1
+folder.mkdir(); // esto crea la carpeta java, y requiere que exista la ruta
+1
+folder.mkdirs(); // esto crea la carpeta java, independientemente que exista el path completo, si no existe crea toda la ruta necesaria
+Ahora bien, quizá sólo queríamos verificar si el path que nos pasan corresponde a un directorio o un archivo, o también si existe o no el path o fichero.
+
+1
+if (!folder.exists()) { // escribimos algo si existe el fichero }
+1
+if (folder.isDirectory()) { // escribimos algo si es un directorio }
+1
+if (folder.isFile()) { // escribimos algo si es un fichero }

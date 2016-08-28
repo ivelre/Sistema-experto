@@ -1,0 +1,6 @@
+* Alteración de la conciencia -> Problemas de atención
+* Deficit de memoria + Desorientación + Alteración del lenguaje -> Cambios en el funcionamiento cognitivo
+* Problemas de atención + Cambios en el funcionamiento cognitivo + Alteración de la percepción + Recientes pruebas de laboratorio + Toma medicamento recetado -> Delirio por medicación
+* Problemas de atención + Cambios en el funcionamiento cognitivo + Alteración del lenguaje + consume drogas -> Delirio por sustancias
+* Problemas de atención + Cambios en el funcionamiento cognitivo + Alteración del lenguaje + Toma medicamento no recetado -> Delirio por sustancias
+* Problemas de atención + Cambios en el funcionamiento cognitivo + Alteración de la percepción + Dejó las drogas -> Delirio por abstinencia 
